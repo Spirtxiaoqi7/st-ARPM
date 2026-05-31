@@ -16,6 +16,7 @@ Install this repository as a SillyTavern third-party extension, or copy the fold
 
 ```text
 SillyTavern/public/scripts/extensions/third-party/st-arpm-story-cleaner
+OR https://github.com/Spirtxiaoqi7/st-ARPM
 ```
 
 Restart or reload SillyTavern, then enable **ARPM Story Cleaner** in extensions.
